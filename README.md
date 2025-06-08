@@ -97,16 +97,11 @@ RAG ensures factually correct responses while being kid-friendly and understanda
 
 | Question | Child-Friendly Answer Summary |
 |---------|-------------------------------|
-| **"what is while loop in python?"** | ![image](https://github.com/user-attachments/assets/1524b666-fbee-41ea-8dd0-066e547fa6be)
- |
-| **"what is if conditions in python?"** | ![image](https://github.com/user-attachments/assets/c2c1eb8b-4c8a-4778-9d12-0a46bf9c0502)
- |
-| **"what is variable meaning in python?"** | ![image](https://github.com/user-attachments/assets/5452980d-688e-40c8-8515-e4b783f5409c)
- |
-| **"what is types of numbers in python?"** | ![image](https://github.com/user-attachments/assets/667c3f89-f135-4116-bbe4-e257a08b96a9)
- |
-| **"how to loop in python?"** | ![image](https://github.com/user-attachments/assets/b2846d4e-9ed4-4345-93b3-27958d284fb0)
- |
+| **"what is while loop in python?"** | ![image](https://github.com/user-attachments/assets/1524b666-fbee-41ea-8dd0-066e547fa6be) |
+| **"what is if conditions in python?"** | ![image](https://github.com/user-attachments/assets/c2c1eb8b-4c8a-4778-9d12-0a46bf9c0502) |
+| **"what is variable meaning in python?"** | ![image](https://github.com/user-attachments/assets/5452980d-688e-40c8-8515-e4b783f5409c) |
+| **"what is types of numbers in python?"** | ![image](https://github.com/user-attachments/assets/667c3f89-f135-4116-bbe4-e257a08b96a9) |
+| **"how to loop in python?"** | ![image](https://github.com/user-attachments/assets/b2846d4e-9ed4-4345-93b3-27958d284fb0) |
 
 ---
 
